@@ -1,5 +1,7 @@
-Welcome to my repository\n
-I'm John\n
+Welcome to my repository
+
+I'm John
+
 Habilities:
 {
   'Eletronics Technician',
